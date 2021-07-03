@@ -1,0 +1,86 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/katyperrycbt/image/upload/v1624957796/5203299_jcdqxm.jpg"
+                }
+            ],
+            "name": "OLIVIA RODRIGO - SOUR - ĐĨA CD",
+            "price": "350000"
+        },
+        {
+            "id": 2,
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/katyperrycbt/image/upload/v1624769742/3805090_1_zvxeie.jpg"
+                }
+            ],
+            "name": "OLIVIA RODRIGO - SOUR - BĂNG CASSETTE",
+            "price": "550000"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "Sour - Olivia Rodrigo",
+            "image": "Sour"
+        },
+        {
+            "id": 2,
+            "title": "Future Nostalgia - Dua Lipa",
+            "image": "FN"
+        },
+        {
+            "id": 3,
+            "title": "The Album - Black Pink",
+            "image": "TheAlbum"
+        },
+        {
+            "id": 4,
+            "title": "Position - Ariana Grande",
+            "image": "Postions"
+        },
+        {
+            "id": 5,
+            "title": "Justice - Justina Barbie",
+            "image": "Justice"
+        },
+        {
+            "id": 6,
+            "title": "Obsessed - Dan + Shay",
+            "image": "Obssessed"
+        },
+        {
+            "id": 7,
+            "title": "Evermore - Taylor Swift",
+            "image": "Evermore"
+        },
+        {
+            "id": 8,
+            "title": "Dan + Shay - Dan + Shay",
+            "image": "DanShayAlbum"
+        },
+        {
+            "id": 9,
+            "title": "No6 - Ed Sheeran",
+            "image": "No6"
+        },
+        {
+            "id": 10,
+            "title": "What You See Ain't Always What You Get - Luke Combs",
+            "image": "WYSAAWYG"
+        },
+        {
+            "id": 11,
+            "title": "X - Ed Sheeran",
+            "image": "Multi"
+        },
+        {
+            "id": 12,
+            "title": ": - Ed Sheeran",
+            "image": "Divide"
+        }
+    ]
+}

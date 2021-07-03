@@ -25,62 +25,62 @@
         {
             "id": 1,
             "title": "Sour - Olivia Rodrigo",
-            "image": "Sour"
+            "image": "../assets/sour.png"
         },
         {
             "id": 2,
             "title": "Future Nostalgia - Dua Lipa",
-            "image": "FN"
+            "image": "../assets/fn.png"
         },
         {
             "id": 3,
             "title": "The Album - Black Pink",
-            "image": "TheAlbum"
+            "image": "../assets/thealbum.png"
         },
         {
             "id": 4,
             "title": "Position - Ariana Grande",
-            "image": "Postions"
+            "image": "../assets/positions.png"
         },
         {
             "id": 5,
             "title": "Justice - Justina Barbie",
-            "image": "Justice"
+            "image": "../assets/justice.png"
         },
         {
             "id": 6,
             "title": "Obsessed - Dan + Shay",
-            "image": "Obssessed"
+            "image": "../assets/ds.jpg"
         },
         {
             "id": 7,
             "title": "Evermore - Taylor Swift",
-            "image": "Evermore"
+            "image": "../assets/evermore.png"
         },
         {
             "id": 8,
             "title": "Dan + Shay - Dan + Shay",
-            "image": "DanShayAlbum"
+            "image": "../assets/danshayalbum.jpg"
         },
         {
             "id": 9,
             "title": "No6 - Ed Sheeran",
-            "image": "No6"
+            "image": "../assets/no6.jpg"
         },
         {
             "id": 10,
             "title": "What You See Ain't Always What You Get - Luke Combs",
-            "image": "WYSAAWYG"
+            "image": "../assets/longname.jpg"
         },
         {
             "id": 11,
             "title": "X - Ed Sheeran",
-            "image": "Multi"
+            "image": "../assets/multi.jpg"
         },
         {
             "id": 12,
             "title": ": - Ed Sheeran",
-            "image": "Divide"
+            "image": "../assets/divide.jpg"
         }
     ]
 }
